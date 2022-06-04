@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8"/>
-        <title>ToDo - Título do site</title>
+        <title>ToDoTeSTE - Título do site</title>
     </head>
 
     <body>
